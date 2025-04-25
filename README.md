@@ -1,6 +1,5 @@
-![image](![Font](https://github.com/user-attachments/assets/2d124dbe-3bdb-4298-b3de-8d180750e156)
-)<div align="center">
-  <img src="C:\GitHub\Font.png" style="width: 0.1;" />
+<div align="center">
+  <img src="![Font](https://github.com/user-attachments/assets/f9a3df85-195b-4835-8c99-ef72634a324e)" style="width: 1;" />
 </div>
 
 <br/>
