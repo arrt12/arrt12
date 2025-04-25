@@ -5,8 +5,6 @@
 <br/>
 
 <h2 align="center">🎮 Welcome to Wonhee's GitHub! 👨‍💻</h2>
-<p align="center">Game Dev![Uploading Font.png…]()
-eloper in training, exploring Unity, C#, and the world of game design.</p>
 
 ---
 
