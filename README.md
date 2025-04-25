@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="Wonhee's Banner" style="max-width: 100%;" />
+![image](https://github.com/user-attachments/assets/71627283-502a-4b9b-b633-35e51fec4a45)<div align="center">
+  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-e184-622f-a9ec-3bf5243fe6c3/raw?se=2025-04-25T10%3A02%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=155a339b-e5b3-5669-8882-1c6c788ca995&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-25T00%3A03%3A08Z&ske=2025-04-26T00%3A03%3A08Z&sks=b&skv=2024-08-04&sig=MuXPfU6A/SV5tGfU1zomkgy2Z2AvVWcijZCqwi4w%2BAE%3D" style="max-width: 100%;" />
 </div>
 
 <br/>
