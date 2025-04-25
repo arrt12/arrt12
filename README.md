@@ -5,7 +5,7 @@
 <br/>
 
 <h2 align="center">🎮 Welcome to Wonhee's GitHub! 👨‍💻</h2>
-
+<p align="center">성실하고 지속적으로 성장한 개발자</p>
 ---
 
 ### 🧰 Tech Stack
