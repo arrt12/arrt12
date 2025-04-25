@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/71627283-502a-4b9b-b633-35e51fec4a45)<div align="center">
-  <img src="![Font](https://github.com/user-attachments/assets/bafb1c43-6c32-4394-8041-4292901c5d7f)" style="max-width: 100%;" />
+  <img src="C:\GitHub\Font.png" style="max-width: 100%;" />
 </div>
 
 <br/>
