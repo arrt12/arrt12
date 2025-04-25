@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3ac38cbb-4c9b-4d86-96fe-9ce79e636ab8" style="width: 1000px;" />
+<img src="https://github.com/user-attachments/assets/1ff14570-0822-422d-8f59-10caa31ea7c5" style="width: 1000px;" />
 
 ## 🎮 Welcome to Wonhee's GitHub! 👨‍💻  
 성실하고 지속적으로 성장한 개발자
