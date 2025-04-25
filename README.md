@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/f7e890b5-bba2-4a38-b2ea-777cd410a087.png" style="width: 200px;" />
+  <img src="![Font](https://github.com/user-attachments/assets/0163c018-7581-4512-9482-ef72ea544cd8)" style="width: 200px;" />
 </div>
 
 <br/>
 
 <h2 align="center">🎮 Welcome to Wonhee's GitHub! 👨‍💻</h2>
-<p align="center">Game Developer in training, exploring Unity, C#, and the world of game design.</p>
+<p align="center">Game Dev![Uploading Font.png…]()
+eloper in training, exploring Unity, C#, and the world of game design.</p>
 
 ---
 
