@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <a href="https://historical-poultry-d51.notion.site/01ce3c7d7b80494ea5fdc0c63548d13e?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-    이미지 클릭시 노션으로 이동
   </a>
+      이미지 클릭시 노션으로 이동
 </p>
 
 #### 🎨 Design  
