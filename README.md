@@ -1,6 +1,4 @@
-<a href="https://historical-poultry-d51.notion.site/01ce3c7d7b80494ea5fdc0c63548d13e?pvs=4" target="_blank">
-  <img src="https://github.com/user-attachments/assets/92fa8130-b3aa-4e10-9203-8afc68afc52c" style="width: 1000px;" />
-</a>
+<img src="https://github.com/user-attachments/assets/92fa8130-b3aa-4e10-9203-8afc68afc52c" style="width: 1000px;" />
 
 ## 🎮 Welcome to Wonhee's GitHub! 👨‍💻  
 성실하고 지속적으로 성장한 개발자
@@ -34,7 +32,9 @@
 #### 💻 Development  
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <a href="https://historical-poultry-d51.notion.site/01ce3c7d7b80494ea5fdc0c63548d13e?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
 </p>
 
 #### 🎨 Design  
